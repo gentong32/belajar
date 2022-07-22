@@ -2,9 +2,9 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Belajar Git - Project 01</title>
+        <title>INFO</title>
     </head>
     <body>
-        <p>Hello Semua, Saya sedang belajar Git</p>
+        <p>Ini adalah bagian dari informasi</p>
     </body>
 </html>
